@@ -8,5 +8,5 @@ Automated testing using Selenium
 
 Languages/Technologies Used:
 
-1)Python
-2)Selenium
+1) Python
+2) Selenium
